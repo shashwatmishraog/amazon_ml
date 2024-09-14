@@ -1,7 +1,3 @@
-Here's a `README.md` template for the project based on the provided code:
-
----
-
 # Image Text Extraction and Named Entity Recognition (NER) Pipeline
 
 ## Overview
